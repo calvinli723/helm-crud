@@ -1,4 +1,6 @@
 ingress:
+  annotations:
+    lbIP: app.939.com
   hosts:
     - host:
       paths:
